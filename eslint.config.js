@@ -32,7 +32,7 @@ export default [
       'react/prop-types': 'off',
       'no-unused-vars': 'warn',
       'react-refresh/only-export-components': [
-        'warn',
+        'off',
         { allowConstantExport: true },
       ],
     },
